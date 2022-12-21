@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @GaryLUFB66
 - 👀 I’m interested in embedded systems programming, music, photography, and Lehigh sports.
-- 🌱 I’m currently enrolled in Lehigh University pursuing an MBA in Business Analytics.
-- 💞️ I’m open to collaborate on petty much anything.
+- 🌱 I’m currently a student at Lehigh University pursuing an MBA in Business Analytics.
+- 💞️ I’m open to collaborating on petty much anything.
 - 📫 Hit me up @ gmnelson@gmail.com.
 
 <!---
